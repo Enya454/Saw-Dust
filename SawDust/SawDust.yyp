@@ -248,6 +248,25 @@
             }
         },
         {
+            "Key": "45af5a74-7688-4aaf-9363-73c3c8424e84",
+            "Value": {
+                "id": "f79d5f0e-557e-4fa2-9933-b7148c501d4d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "notes\/Rules to not break code.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "52f071d6-7845-4aea-a966-e039c464d34e",
             "Value": {
                 "id": "366438ad-7f6d-49df-b25f-3badf1c1fd6c",
@@ -264,6 +283,25 @@
                 ],
                 "resourcePath": "views\/52f071d6-7845-4aea-a966-e039c464d34e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5bedc846-2a45-4665-a2f4-35de6314af5b",
+            "Value": {
+                "id": "ffec1b52-27ae-49a5-98b4-f43c0a397632",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "notes\/Help!!!.yy",
+                "resourceType": "GMNotes"
             }
         },
         {
