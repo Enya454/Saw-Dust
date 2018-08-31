@@ -457,6 +457,25 @@
             }
         },
         {
+            "Key": "a9026809-3748-4bb2-839e-476e9990f832",
+            "Value": {
+                "id": "63339872-bbaf-49e5-92cf-c2e7eff4e363",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/Font_Start\/Font_Start.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "b217d183-acd6-4998-8bfe-1f4afd942f99",
             "Value": {
                 "id": "94dfb817-19fc-46d0-95ba-3200289b0e76",
@@ -509,7 +528,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite4\/sprite4.yy",
+                "resourcePath": "sprites\/Spr_Box\/Spr_Box.yy",
                 "resourceType": "GMSprite"
             }
         },
