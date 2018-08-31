@@ -3,6 +3,8 @@ https://www.youtube.com/watch?v=hWBFkgdrgn0&t=601s
 1.	When wanting to change a code on an object, duplicate the object, tag your name either in
 	the object's name or as a tag in Whitespace.
 	e.g. You want to edit Obj_Coin. You duplicate that object and turn it into Obj_"Name"Coin.
+	IMPORTANT!!!
+	If someone's name is on something, don't edit it without permission.
 	
 2.	If help is needed, in the HELP!!! notes, write down the object, the event, and the line of the 
 	code and provide an explaination for what you are trying to accomplish.
