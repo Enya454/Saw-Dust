@@ -1,5 +1,7 @@
 global.start = false;
 Inventory[0] = Obj_Saw
+InvAmmo[0] = 5
+SelectInv = 0;
 Selected = false;
 Select = noone;
 SelectObj = noone;

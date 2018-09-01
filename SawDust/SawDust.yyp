@@ -267,6 +267,25 @@
             }
         },
         {
+            "Key": "4c37724a-804d-4905-b10d-d4cfdf03e281",
+            "Value": {
+                "id": "d4477d6d-42b6-407b-8ad2-a5ae18dda7b5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/Font_Ammo\/Font_Ammo.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "52f071d6-7845-4aea-a966-e039c464d34e",
             "Value": {
                 "id": "366438ad-7f6d-49df-b25f-3badf1c1fd6c",
