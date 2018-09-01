@@ -36,6 +36,10 @@ for (var i = 0; i < array_length_1d(Inventory); i += 1)
 		if collision_rectangle(room_width-buffer-(i*64)-(i*buffer),room_height-buffer,room_width-buffer-(i*64)-(i*buffer)-64,room_height-buffer-64,Obj_MouseTracker,false,false)// If mouse over box
 		{
 			draw_sprite_ext(Inventory[i].sprite_index,0,room_width-buffer-(i*64)-(i*buffer)-32,(room_height-buffer)-32,0.6,0.6,0,c_white,1)//Draw Item Small
+			if mouse_check_button_pressed(mb_left)
+			{
+				Select = Inventory[i]
+			}
 		}
 		else
 		{
